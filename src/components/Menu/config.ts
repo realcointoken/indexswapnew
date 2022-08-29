@@ -23,12 +23,12 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://app.indexsale.finance/#/farms',
+    href: 'https://app.indexsale.finance/farms',
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: 'https://app.indexsale.finance/#/pools',
+    href: 'https://app.indexsale.finance/pools',
   },
   // {
   //   label: 'Pools',
