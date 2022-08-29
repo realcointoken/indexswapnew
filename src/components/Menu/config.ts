@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://farm.indexsale.finance/',
+    href: 'https://app.indexsale.finance/',
   },
   {
     label: 'Trade',
@@ -23,12 +23,12 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://farm.indexsale.finance/#/farms',
+    href: 'https://app.indexsale.finance/#/farms',
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: 'https://farm.indexsale.finance/#/pools',
+    href: 'https://app.indexsale.finance/#/pools',
   },
   // {
   //   label: 'Pools',
