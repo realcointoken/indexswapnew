@@ -51,7 +51,7 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'PancakeSwap',
-        href: 'https://pancakeswap.info/token/0x89C2d726981eBa2EA168C7B19F54cAe905DA89cD',
+        href: 'https://pancakeswap.info/token/',
       },
       {
         label: 'CoinGecko',
@@ -77,15 +77,15 @@ const config: MenuEntry[] = [
       },
       {
         label: 'Github',
-        href: 'https://github.com/',
+        href: 'https://github.com/In-DexSale/In-Dex-Sale.git',
       },
       {
         label: 'Docs',
-        href: 'idsdefi.gitbook.io',
+        href: 'https://in-dexsale.gitbook.io/in-dex-sale/',
       },
       {
         label: 'Blog',
-        href: 'https://medium.com/',
+        href: 'https://medium.com/@in-dexsale',
       },
     ],
   },
