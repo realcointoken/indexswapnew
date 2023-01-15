@@ -55,11 +55,11 @@ const config: MenuEntry[] = [
       },
       {
         label: 'CoinGecko',
-        href: 'https://www.coingecko.com/en/coins/BullChain',
+        href: 'https://www.coingecko.com/en/coins/indexsale',
       },
       {
         label: 'CoinMarketCap',
-        href: 'https://coinmarketcap.com/currencies/BullChain',
+        href: 'https://coinmarketcap.com/currencies/indexsale',
       },
       {
         label: 'AstroTools',
@@ -73,26 +73,26 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Hacken Audit',
-        href: 'https://bullchain.finance/',
+        href: 'https://indexsale.finance/',
       },
       {
         label: 'Github',
-        href: 'https://github.com/',
+        href: 'https://github.com/In-DexSale/In-Dex-Sale.git',
       },
       {
         label: 'Docs',
-        href: 'https://bullchain.gitbook.io/bullchain/',
+        href: 'https://in-dexsale.gitbook.io/in-dex-sale/',
       },
       {
         label: 'Blog',
-        href: 'https://medium.com/@bullchain
+        href: 'https://medium.com/@in-dexsale',
       },
     ],
   },
   {
     label: 'Website',
     icon: 'AuditIcon',
-    href: 'https://bullchain.finance/',
+    href: 'https://indexsale.finance/',
   },
 ]
 
