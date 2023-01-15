@@ -12,11 +12,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://swap.indexsale.finance/#/swap',
+        href: 'https://indexswapnew-lunafarm.vercel.app/#/swap',
       },
       {
         label: 'Liquidity',
-        href: 'https://swap.indexsale.finance/#/pool',
+        href: 'https://indexswapnew-lunafarm.vercel.app/#/pool',
       },
     ],
   },
@@ -55,15 +55,15 @@ const config: MenuEntry[] = [
       },
       {
         label: 'CoinGecko',
-        href: 'https://www.coingecko.com/en/coins/indexsale',
+        href: 'https://www.coingecko.com/en/coins/',
       },
       {
         label: 'CoinMarketCap',
-        href: 'https://coinmarketcap.com/currencies/indexsale',
+        href: 'https://coinmarketcap.com/currencies/',
       },
       {
         label: 'AstroTools',
-        href: 'https://app.astrotools.io/pancake-pair-explorer/', // taco-busd
+        href: 'https://app.astrotools.io/pancake-pair-explorer/', // bullchain-busd
       },
     ],
   },
@@ -73,26 +73,26 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Hacken Audit',
-        href: 'https://indexsale.finance/',
+        href: 'https://bullchain.finance/',
       },
       {
         label: 'Github',
-        href: 'https://github.com/In-DexSale/In-Dex-Sale.git',
+        href: 'https://github.com/bullchain/',
       },
       {
         label: 'Docs',
-        href: 'https://in-dexsale.gitbook.io/in-dex-sale/',
+        href: 'https://bullchain.gitbook.io/bullchain/',
       },
       {
         label: 'Blog',
-        href: 'https://medium.com/@in-dexsale',
+        href: 'https://medium.com/@bullchain',
       },
     ],
   },
   {
     label: 'Website',
     icon: 'AuditIcon',
-    href: 'https://indexsale.finance/',
+    href: 'https://bullchain.finance/',
   },
 ]
 
