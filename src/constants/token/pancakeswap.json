@@ -8,11 +8,11 @@
   },
   "tags": {},
   "logoURI": "/images/coins/wbnb.png",
-  "keywords": ["IDXS", "WBNB"],
+  "keywords": ["BULLCHAIN", "WBNB"],
   "tokens": [
     {
-      "name": "In-Dex Sale",
-      "symbol": "IDXS",
+      "name": "BULLCHAIN",
+      "symbol": "BULL",
       "address": "0x89C2d726981eBa2EA168C7B19F54cAe905DA89cD",
       "chainId": 56,
       "decimals": 9
