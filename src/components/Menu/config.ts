@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://app.indexsale.finance/',
+    href: 'https://stake.bullchainai.com/',
   },
   {
     label: 'Trade',
@@ -12,23 +12,23 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://indexswapnew-lunafarm.vercel.app/#/swap',
+        href: 'https://dex.bullchainai.com/#/swap',
       },
       {
         label: 'Liquidity',
-        href: 'https://indexswapnew-lunafarm.vercel.app/#/pool',
+        href: 'https://dex.bullchainai.com/#/pool',
       },
     ],
   },
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://app.indexsale.finance/farms',
+    href: 'https://stake.bullchainai.com/farms',
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: 'https://app.indexsale.finance/pools',
+    href: 'https://stake.bullchainai.com/pools',
   },
   // {
   //   label: 'Pools',
@@ -73,11 +73,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Hacken Audit',
-        href: 'https://bullchain.finance/',
+        href: 'https://https://bullchainai.com/',
       },
       {
         label: 'Github',
-        href: 'https://github.com/bullchain/',
+        href: 'https://github.com/',
       },
       {
         label: 'Docs',
@@ -92,7 +92,7 @@ const config: MenuEntry[] = [
   {
     label: 'Website',
     icon: 'AuditIcon',
-    href: 'https://bullchain.finance/',
+    href: 'https://bullchainai.com/',
   },
 ]
 
