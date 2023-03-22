@@ -67,9 +67,9 @@
     {
       "name": "BullChainAI",
       "symbol": "BCAI",
-      "address": "0x62b427daa6dce1bea02f74ae09f6b7e82bd860e5",
+      "address": "0x62B427DaA6DCe1bea02F74AE09f6b7e82Bd860e5",
       "chainId": 56,
-      "decimals": 9
+      "decimals": 18
     },
     {
       "name": "Cardano Token",
