@@ -15,14 +15,14 @@
       "symbol": "MTK",
       "address": "0x116526135380e28836c6080f1997645d5a807fae",
       "chainId": 56,
-      "decimals": 18,
+      "decimals": 18
     },
     {
       "name": "WBNB Token",
       "symbol": "WBNB",
       "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
       "chainId": 56,
-      "decimals": 18,
+      "decimals": 18
     },
     {
       "name": "BUSD Token",
@@ -69,7 +69,7 @@
       "symbol": "BCAI",
       "address": "0x62b427daa6dce1bea02f74ae09f6b7e82bd860e5",
       "chainId": 56,
-      "decimals": 9,
+      "decimals": 9
     },
     {
       "name": "Cardano Token",
