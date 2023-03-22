@@ -69,8 +69,7 @@
       "symbol": "MTK",
       "address": "0x116526135380e28836c6080f1997645d5a807fae",
       "chainId": 56,
-      "decimals": 18,
-      "logoURI": "/images/coins/LTC-icon.png"
+      "decimals": 18
     },
     {
       "name": "Cardano Token",
