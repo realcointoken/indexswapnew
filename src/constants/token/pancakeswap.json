@@ -65,9 +65,9 @@
       "logoURI": "/images/coins/XRP-icon.png"
     },
     {
-      "name": "Litecoin Token",
-      "symbol": "LTC",
-      "address": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94",
+      "name": "Martik Token",
+      "symbol": "MTK",
+      "address": "0x116526135380e28836c6080f1997645d5a807fae",
       "chainId": 56,
       "decimals": 18,
       "logoURI": "/images/coins/LTC-icon.png"
@@ -76,13 +76,6 @@
       "name": "Cardano Token",
       "symbol": "ADA",
       "address": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
-      "chainId": 56,
-      "decimals": 18
-    },
-    {
-      "name": "Martik Token",
-      "symbol": "MTK",
-      "address": "0x116526135380e28836c6080f1997645d5a807fae",
       "chainId": 56,
       "decimals": 18
     },
