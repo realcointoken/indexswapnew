@@ -46,39 +46,9 @@ const config: MenuEntry[] = [
   //   href: '/nft',
   // },
   {
-    label: 'Info',
-    icon: 'InfoIcon',
-    items: [
-      {
-        label: 'PancakeSwap',
-        href: 'https://pancakeswap.info/token/',
-      },
-      {
-        label: 'CoinGecko',
-        href: 'https://www.coingecko.com/en/coins/',
-      },
-      {
-        label: 'CoinMarketCap',
-        href: 'https://coinmarketcap.com/currencies/',
-      },
-      {
-        label: 'AstroTools',
-        href: 'https://app.astrotools.io/pancake-pair-explorer/', // bullchain-busd
-      },
-    ],
-  },
-  {
     label: 'More',
     icon: 'MoreIcon',
     items: [
-      {
-        label: 'Hacken Audit',
-        href: 'https://https://bullchainai.com/',
-      },
-      {
-        label: 'Github',
-        href: 'https://github.com/',
-      },
       {
         label: 'Docs',
         href: 'https://bullchain.gitbook.io/bullchain/',
