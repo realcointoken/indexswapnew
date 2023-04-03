@@ -69,7 +69,7 @@
       "symbol": "BCAI",
       "address": "0xd5d111b9e1e3daf2a8c16cc005988e93c437e242",
       "chainId": 56,
-      "decimals": 18
+      "decimals": 8
     },
     {
       "name": "Cardano Token",
